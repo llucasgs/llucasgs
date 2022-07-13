@@ -58,7 +58,7 @@
 
 <hr />    
 
-<h3 align="center">:trophy: GitHub</h3>
+<h3 align="center">:trophy: Estatísticas</h3>
 <div align="center">
     <a href="https://github.com/llucasgs">
         <img src="https://github-readme-stats.vercel.app/api?username=llucasgs&theme=vue" alt="llucasgs github stats" />
