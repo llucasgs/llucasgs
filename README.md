@@ -9,15 +9,12 @@
   <a href="https://www.linkedin.com/in/lucasgarciaesilva">
     <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="https://github.com/llucasgs">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.instagram.com/devllucas_gs/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
   <a href="https://devllucasgs.com.br/">
     <img src="https://img.shields.io/badge/Site_Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-
   <a href="mailto:llucasgarciesilva@hotmail.com">
     <img src="https://img.shields.io/badge/Email-E11D48?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
